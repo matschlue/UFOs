@@ -4,4 +4,4 @@ This webpage provides an in-depth analysis of UFO sightings by allowing users to
 
 The user is able to enter a date, city, state, country and shape in order to get detailed results in a table.
 
-![Alt text](/filtersjune_temp.png "Image")
+![Alt text](/filters.png "Image")
